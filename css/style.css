@@ -1,6 +1,63 @@
+/* Utilities Style Start */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.panda-buy-now-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.panda-buy-now-btn:hover {
+    color: #fff;
+}
+/* Utilities Style End */
+
+/* Header Section Style Start */
+.menu {
+    padding: 0.5rem 1rem;
+}
+/* Header Section Style End */
+
+/* Categorie Section Style Start */
+.categorie-1 {
+    background-color: #FFA500;
+}
+
+.categorie-2 {
+    background-color: #DA70D6;
+}
+
+.categorie-3 {
+    background-color: #0000FF;
+}
+
+.categorie-1,
+.categorie-2,
+.categorie-3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
 .categories img {
     width: 100px;
 }
+/* Categorie Section Style End */
+
+/* Card Section Style Start */
+.panda-card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;;
+}
+/* Card Section Style End */
 
 .subscribe {
     height: 300px;
