@@ -24,6 +24,15 @@
 /* Header Section Style Start */
 .menu {
     padding: 0.5rem 1rem;
+    border-radius: 10px;
+}
+
+.banner {
+    border-radius: 10px;
+}
+
+.highlight {
+    color: #FF4791;
 }
 /* Header Section Style End */
 
@@ -33,11 +42,11 @@
 }
 
 .categorie-2 {
-    background-color: #DA70D6;
+    background-color: #20C997;
 }
 
 .categorie-3 {
-    background-color: #0000FF;
+    background-color: #0DCAF0;
 }
 
 .categorie-1,
@@ -59,6 +68,8 @@
 }
 /* Card Section Style End */
 
+/* Subscribe Section Start */
 .subscribe {
     height: 300px;
 }
+/* Subscribe Section End */
